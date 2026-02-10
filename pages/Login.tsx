@@ -23,7 +23,7 @@ const Login: React.FC = () => {
         
         <div className="space-y-4">
           <p className="text-xs font-bold text-sky-400 uppercase tracking-widest mb-4">로그인 유형 선택</p>
-          {(['관리자', '선장', '기관장', '승무원'] as UserRole[]).map((role) => (
+          {(['부문장', '선장', '기관장', '승무원'] as UserRole[]).map((role) => (
             <button
               key={role}
               onClick={() => handleRoleLogin(role)}
