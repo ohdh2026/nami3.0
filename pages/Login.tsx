@@ -19,7 +19,7 @@ const Login: React.FC = () => {
           <Anchor size={48} className="text-sky-600" />
         </div>
         <h1 className="text-4xl font-extrabold text-sky-900 mb-2 font-['Space_Grotesk']">FERRY</h1>
-        <p className="text-sky-600 mb-10 font-medium">나미나라공화국 전문 항해일지 시스템</p>
+        <p className="text-sky-600 mb-10 font-medium">나미나라공화국 운항팀 항해일지 테스트버전</p>
         
         <div className="space-y-4">
           <p className="text-xs font-bold text-sky-400 uppercase tracking-widest mb-4">로그인 유형 선택</p>
