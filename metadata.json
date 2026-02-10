@@ -1,0 +1,7 @@
+{
+  "name": "Ferry - Professional Sailing Log",
+  "description": "A comprehensive maritime logistics and sailing log system for Naminara Republic, featuring role-based access, ship management, and automated Telegram alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
